@@ -4,3 +4,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+.container{
+    width: 1280px;
+    margin: 20px auto;
+}
+
+header{
+    background-color: #E57AE3;
+    height: 100px;
+}
