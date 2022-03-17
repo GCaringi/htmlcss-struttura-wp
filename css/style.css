@@ -14,3 +14,9 @@ header{
     background-color: #E57AE3;
     height: 100px;
 }
+
+.big-ph{
+    background-color: #E1D57A;
+    min-height: 400px;
+    margin-top: 20px;
+}
